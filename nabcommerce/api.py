@@ -9,7 +9,7 @@ import marshal
 import error
 
 class Nabcommerce():
-	URL = 'api.dev.nabcommerce.com'
+	URL = 'api.cert.nabcommerce.com'
 	ENDPOINT='/REST/2.0.18'
 	TMS_REST_SCHEMA=",http://schemas.ipcommerce.com/CWS/v2.0/DataServices/TMS/Rest"
 	TXN_REST_SCHEMA=",http://schemas.ipcommerce.com/CWS/v2.0/Transactions/Rest"
